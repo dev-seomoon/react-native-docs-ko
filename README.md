@@ -116,12 +116,15 @@ React Native 0.66 버전 공식문서의 Learn Basics(튜토리얼), Getting Sta
 4. [앱 확장 프로그램 (App Extensions)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/13.Guides-iOS/4.App-Extensions.md)
 5. [Apple App Store에 게시하기 (Publishing to Apple App Store)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/13.Guides-iOS/5.Publishing-to-Apple-App-Store.md)
   
-  
-
+## Contributors 🥳
+- [minsekim1](https://github.com/minsekim1) 
+- [Lee Jiwon](https://github.com/leejiwonn)
+- [seomoon](https://github.com/dev-seomoon)
+- [HyunA-Kim (Mina)](https://github.com/kha-github)
 
 ---
 
-## RNDOC (추천 앱 👍)
+## 추천 앱 👍 - RNDOC
 [-> 깃허브 바로가기](https://github.com/React-Native-docs/React-Native-docs)
 
 React Native 공식 문서 한국어 버전을 제공하고, 앱에서 공식 문서의 예제들을 바로 실행해볼 수 있습니다.  
