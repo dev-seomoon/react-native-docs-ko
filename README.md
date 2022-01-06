@@ -3,11 +3,20 @@ React Native 공식문서 한국어 번역 ver1.0
 
 React Native 0.66 버전 공식문서의 튜토리얼, 가이드 번역본입니다. 
 
+### RNDOCS !
+https://github.com/React-Native-docs/React-Native-docs   
+
+React Native 공식 문서 한국어 버전을 제공하고, 앱에서 공식 문서의 예제들을 바로 실행해볼 수 있어 
+한국어 사용자들이 React Native를 배우는 데 도움이 되는 Android / iOS 어플리케이션입니다.  
+RNDOC에서 제공하는 한국어 버전 공식 문서는 react-native-docs-ko 저장소의 번역과 동일합니다. 
+
+- 플레이스토어 : https://play.google.com/store/apps/details?id=com.hyuna.rnproject
+- 앱스토어 : https://fnd.io/#/kr/ios-universal-app/1570059041-rndoc-by-minsung-kim
+
 
 ## 원문
 - Learn Basics : https://reactnative.dev/docs/tutorial (튜토리얼)
 - Getting Started : https://reactnative.dev/docs/getting-started (가이드)  
-
 
 
 ## 번역본 목차
