@@ -11,10 +11,10 @@ React Native 0.66 버전 공식문서의 튜토리얼, 가이드 번역본입니
 
 ## 번역본 목차
 
-### [Learn Basics (튜토리얼)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/learn-basics.md)
-[Learn Basics (튜토리얼)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/learn-basics.md)
+### [Learn Basics](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/learn-basics.md)
+[Learn Basics](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/learn-basics.md)
 
-### [Gettring Started (가이드)](https://github.com/dev-seomoon/react-native-docs-ko/tree/main/getting-started)
+### [Gettring Started](https://github.com/dev-seomoon/react-native-docs-ko/tree/main/getting-started)
 #### 1. [기초 (The Basics)](https://github.com/dev-seomoon/react-native-docs-ko/tree/main/getting-started/1.The-Basics)  
 1. [소개 (Introduction)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/1.The-Basics/1.Introduction.md)
 2. [코어 컴포넌트와 네이티브 컴포넌트 (Core Components and Native Components )](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/1.The-Basics/2.Core-Components-and-Native-Components.md)
