@@ -28,8 +28,23 @@ React Native 0.66 버전 공식문서의 튜토리얼, 가이드 번역본입니
 
 
 #### 2. [개발환경 설정 (Environment setup)](https://github.com/dev-seomoon/react-native-docs-ko/tree/main/getting-started/2.Environment-setup)
+1. [개발환경 설정하기 (Setting up the development environment)](https://github.com/dev-seomoon/react-native-docs-ko/tree/main/getting-started/2.Environment-setup/1.Setting-up-the-development-environment)
+    1. [Expo CLI 빠른 시작 (Expo CLI Quickstart)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/2.Environment-setup/1.Setting-up-the-development-environment/Expo-CLI-Quickstart.md)
+    2. [React Native CLI 빠른 시작 (React Native CLI Quickstart)](https://github.com/dev-seomoon/react-native-docs-ko/tree/main/getting-started/2.Environment-setup/1.Setting-up-the-development-environment/React-Native-CLI-Quickstart)
+3. [기존 앱과 통합하기 (Integration with Existing Apps)](https://github.com/dev-seomoon/react-native-docs-ko/tree/main/getting-started/2.Environment-setup/2.Integration-with-Existing-Apps)
+4. [Android Fragment와 통합하기 (Integration with an Android Fragment)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/2.Environment-setup/3.Integration-with-an-Android-Fragment.md)
+5. [TV 장치용 빌드 (Building For TV Devices)](https://github.com/dev-seomoon/react-native-docs-ko/tree/main/getting-started/2.Environment-setup/4.Building-For-TV-Devices)
+6. [외부 플랫폼 (Out-of-Tree Platforms)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/2.Environment-setup/5.Out-of-Tree_Platforms.md)
 
 #### 3. [워크플로우 (Workflow)](https://github.com/dev-seomoon/react-native-docs-ko/tree/main/getting-started/3.Workflow)
+1. [디바이스에서 실행하기 (Running on Device)](https://github.com/dev-seomoon/react-native-docs-ko/tree/main/getting-started/3.Workflow/1.Running-On-Device)
+2. [Fast Refresh](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/3.Workflow/2.Fast-Refresh.md)
+3. [디버깅 (Debugging)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/3.Workflow/3.Debugging.md)
+4. [스택 추적 디버깅 심볼 생성하기 (Symbolicating a stack trace)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/3.Workflow/4.Symbolicating-a-stack-trace.md)
+5. [테스트 (Testing)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/3.Workflow/5.Testing.md)
+6. [라이브러리 사용하기 (Using Libraries)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/3.Workflow/6.Using-Libraries.md)
+7. [TypeScript 사용하기 (Using TypeScript)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/3.Workflow/7.Using-TypeScript.md)
+8. [새로운 버전으로 업그레이드하기 (Upgrading to new versions)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/3.Workflow/8.Upgrading-to-new-versions.md)
 
 #### 4. [디자인 (Design)](https://github.com/dev-seomoon/react-native-docs-ko/tree/main/getting-started/4.Design)
 1. [스타일 (Style)](https://github.com/dev-seomoon/react-native-docs-ko/blob/main/getting-started/4.Design/1.Style.md)
