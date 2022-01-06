@@ -1,12 +1,12 @@
 # react-native-docs-ko
 React Native 공식문서 한국어 번역 ver1.0
 
-React Native 0.66 버전 공식문서의 튜토리얼, 가이드 번역본입니다. 
-
+React Native 0.66 버전 공식문서의 Learn Basics(튜토리얼), Getting Started(가이드) 한국어 번역본입니다.  
+번역 관련 또는 그 외 수정 / 개선 사항이 있을 시 이슈 남겨주시면 감사하겠습니다.  
 
 ## 원문
-- Learn Basics : https://reactnative.dev/docs/tutorial (튜토리얼)
-- Getting Started : https://reactnative.dev/docs/getting-started (가이드)  
+- Learn Basics : https://reactnative.dev/docs/tutorial 
+- Getting Started : https://reactnative.dev/docs/getting-started 
 
 
 ## 번역본 목차
