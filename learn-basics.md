@@ -36,7 +36,7 @@ export default HelloWorldApp;
 1. 우선 각 플랫폼의 네이티브 컴포넌트로 변환될 `JSX` 를 사용하기 위해 `React` 를 import해야합니다. 
 2. 2번째 줄에서는, `react-native`에서 `Text`와 `View` 를 import합니다. 
 
-그런 다음 [함수형 컴포넌트](https://reactjs.org/docs/components-and-props.html#function-and-class-components)이며 웹에서의 React와 같은 방식으로 동작하는 `HelloWorldApp` 함수를 찾습니다. 이 함수는 일부 스타일과 `Text` 를 하위 컴포넌트로 갖는 `View` 컴포넌트를 반환합니다. 
+그런 다음 [함수 컴포넌트](https://reactjs.org/docs/components-and-props.html#function-and-class-components)이며 웹에서의 React와 같은 방식으로 동작하는 `HelloWorldApp` 함수를 찾습니다. 이 함수는 일부 스타일과 `Text` 를 하위 컴포넌트로 갖는 `View` 컴포넌트를 반환합니다. 
 
 `Text` 컴포넌트를 사용하면 텍스트를 렌더링할 수 있고, `View` 컴포넌트는 컨테이너를 렌더링할 수 있습니다. 이 컨테이너에는 여러 가지 스타일이 적용되어 있습니다. 각 스타일이 어떤 역할을 하고 있는지 분석해 보겠습니다. 
 
@@ -58,7 +58,7 @@ export default HelloWorldApp;
 
 대부분의 컴포넌트는 생성될 때 서로 다른 매개변수를 통해 커스터마이징될 수 있습니다. 이러한 생성 매개변수들을 props라고 합니다. 
 
-사용자가 만든 컴포넌트 또한 `props`를 사용할 수 있습니다. 이렇게 하면 앱의 여러 위치에서 사용되는 하나의 컴포넌트를 만들고, 각 위치에서 조금씩 다른 속성을 가질 수 있습니다. 함수형 컴포넌트에서 `props.YOUR_PROP_NAME`를 참조하거나, 클래스형 컴포넌트에서 `this.props.YOUR_PROP_NAME`을 참조하십시오. 다음은 예시입니다. 
+사용자가 만든 컴포넌트 또한 `props`를 사용할 수 있습니다. 이렇게 하면 앱의 여러 위치에서 사용되는 하나의 컴포넌트를 만들고, 각 위치에서 조금씩 다른 속성을 가질 수 있습니다. 함수 컴포넌트에서 `props.YOUR_PROP_NAME`를 참조하거나, 클래스 컴포넌트에서 `this.props.YOUR_PROP_NAME`을 참조하십시오. 다음은 예시입니다. 
 
 **Hello Props**
 
@@ -174,7 +174,7 @@ As shown above, there is no difference in handling the `state` between [React](h
 
 In the following example we will show the same above counter example using classes.
 
-위와 같이 `state`를 처리하는 데 있어서 [React](https://reactjs.org/docs/state-and-lifecycle.html)와 `React Native` 간에 차이는 없습니다. 컴포넌트의 state를 클래스형 컴포넌트에서 사용할 수 있고, [훅(hooks)](https://reactjs.org/docs/hooks-intro.html)을 사용해 함수형 컴포넌트에서도 사용할 수 있습니다. 
+위와 같이 `state`를 처리하는 데 있어서 [React](https://reactjs.org/docs/state-and-lifecycle.html)와 `React Native` 간에 차이는 없습니다. 컴포넌트의 state를 클래스 컴포넌트에서 사용할 수 있고, [훅(hooks)](https://reactjs.org/docs/hooks-intro.html)을 사용해 함수 컴포넌트에서도 사용할 수 있습니다. 
 
 다음 예제에서는 함수 대신 클래스를 사용해 구현한 동일한 컴포넌트를 보여줍니다. 
 

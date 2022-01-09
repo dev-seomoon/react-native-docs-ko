@@ -1,5 +1,3 @@
-<-- Tab: iOS (Swift) -->
-
 # 기존 앱과의 통합
 
 새 모바일 앱을 처음부터 시작할 때 Ract Native가 좋습니다. 그러나 기존 native 어플리케이션에 single view 또는 사용자 흐름을 추가하는 데도 유용합니다. 몇 단계로 새로운 React Native 기반 features, screens, view 등을 추가할 수 있습니다.

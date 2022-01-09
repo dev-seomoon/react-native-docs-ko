@@ -1,5 +1,3 @@
-<-- Tab : 🚧 tvOS -->
-
 # TV 기기를 위한 빌드
 
 TV 장치 지원은 기존 React Native 응용 프로그램이 Apple TV 및 Android TV에서 작동하도록 구현되었으며 응용 프로그램의 JavaScript 코드를 거의 또는 전혀 변경하지 않아도됩니다.

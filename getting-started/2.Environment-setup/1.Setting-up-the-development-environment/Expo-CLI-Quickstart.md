@@ -1,5 +1,3 @@
-<-- Tab: Expo CLI Quickstart -->
-
 # 개발 환경 설정
 
 이 페이지는 첫 번째 React Native 앱을 설치하고 빌드하는 데 도움이 됩니다. 

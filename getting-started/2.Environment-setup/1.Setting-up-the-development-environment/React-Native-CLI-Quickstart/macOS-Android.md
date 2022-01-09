@@ -1,7 +1,3 @@
-<-- Tab: React Native CLI Quickstart -->
-
-<-- Inner Tab: macOS/Android -->
-
 # 개발 환경 설정
 
 이 페이지는 React Native 앱을 설치하고 빌드하는 첫 걸음에 도움이 됩니다.
